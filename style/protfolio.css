@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#page-1{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #FFF8F3;
+    z-index: 1;
+    background-image: url(../images/developer.png), url(../images/header_bg.png);
+    /* position: relative; */
+    background-size: 80px auto, auto;
+    background-position: top left, bottom right;
+    background-repeat: no-repeat;
+
+}
+
+.btn-primary{
+    background-color: #FD6E0A;
+    font-weight: bold;
+    border: none;
+    font-family: "Open Sans", serif;
+    width: 141px;
+    height: 57px;
+    border-radius: 7px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* Navbar style */
+
+nav{
+    display: flex;
+    font-family: "Open Sans", serif;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 110px 10px 140px;
+    
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+
+/* Shared Style */
+
+.text-primary{
+    color: #FD6E0A;
+}
+
+nav ul li{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    /* color: black; */
+    color: #474747;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+}
+
+/* Banner style */
+
+.banner-greetings{
+    color: #474747;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: "Open Sans", serif;
+}
+
+.banner-title{
+    color: black;
+    font-size: 85px;
+    font-weight: bold;
+    font-family: "Open Sans", serif;
+}
+
+.profile-pic{
+    width: 475px;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 35px 0 140px;
+} 
+
+.banner-content{
+    max-width: 580px;
+}
+
