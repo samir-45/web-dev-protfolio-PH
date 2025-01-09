@@ -13,7 +13,7 @@
     background-image: url(../images/developer.png), url(../images/header_bg.png);
     /* position: relative; */
     background-size: 80px auto, 660px;
-    background-position: top 10px left 35px, bottom right;
+    background-position: top 12px left 35px, bottom right;
     background-repeat: no-repeat;
     position: relative;
 
@@ -194,7 +194,7 @@ nav ul{
     gap: 10px;
     justify-content: space-around;
     padding: 0 96px;
-    padding-top: 40px;
+    padding-top: 49px;
 }
 
 .skill-description{
@@ -215,7 +215,7 @@ nav ul{
 }
 
 .skills{
-    padding-top: 30px;
+    padding-top: 35px;
 }
 
 .cont-des{
