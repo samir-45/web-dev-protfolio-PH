@@ -279,16 +279,16 @@ experience-sub-title{
 
 .resume-btn{
 margin-top: 50px;
-    background-color: #FD6E0A;
-    font-weight: bold;
-    border: none;
-    font-family: "Open Sans", serif;
-    width: 150px;
-    height: 54px;
-    border-radius: 7px;
-    font-size: 20px;
-    color: white;
-    cursor: pointer;
+background-color: #FD6E0A;
+font-weight: bold;
+border: none;
+font-family: "Open Sans", serif;
+width: 180px;
+height: 57px;
+border-radius: 7px;
+font-size: 20px;
+color: white;
+cursor: pointer;
 }
 
 
@@ -397,7 +397,7 @@ textarea{
     font-weight: bold;
     border: none;
     font-family: "Open Sans", serif;
-    width: 155px;
+    width: 180px;
     height: 57px;
     border-radius: 7px;
     font-size: 20px;
